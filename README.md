@@ -12,14 +12,13 @@ Frontend Developer | React Enthusiast
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-## 🚀 My Projects  
-- **[1]** - desc. [Link]  
-- **[2]** - desc [Link]  
-- **[3]** - desc. [Link]  
+## 🚀 My personal websitte
+-   
 
 ## 📫 Connect with Me  
 
-- zzz
+- telegram - @zatrudnilov
+
 
 
 ## Github Stats  
