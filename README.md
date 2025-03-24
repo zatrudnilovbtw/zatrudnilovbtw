@@ -17,7 +17,7 @@ Frontend Developer | React Enthusiast
 
 ## 📫 Connect with Me  
 
-- telegram - @zatrudnilov
+- telegram - https://t.me/zatrudnilov
 
 
 
